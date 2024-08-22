@@ -1,0 +1,13 @@
+.carousel_item{
+    padding: 10%;
+
+    /* margin: 50%; */
+}
+.main_carousel{
+    margin: 2%;
+    border: 2px solid red;
+    
+}
+.bg{
+    background-color: blueviolet;
+}

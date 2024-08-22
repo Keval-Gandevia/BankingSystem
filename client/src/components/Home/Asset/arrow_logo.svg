@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="48" height="48" viewBox="0 0 172 172"
+        style=" fill:#000000;">
+        <defs>
+            <linearGradient x1="132.58333" y1="148.90542" x2="132.58333" y2="100.44083" gradientUnits="userSpaceOnUse"
+                id="color-1_gkgXdvj3Owk3_gr1">
+                <stop offset="0.365" stop-color="#199ae0"></stop>
+                <stop offset="0.699" stop-color="#1898de"></stop>
+                <stop offset="0.819" stop-color="#1691d8"></stop>
+                <stop offset="0.905" stop-color="#1186cc"></stop>
+                <stop offset="0.974" stop-color="#0a75bc"></stop>
+                <stop offset="1" stop-color="#076cb3"></stop>
+            </linearGradient>
+            <linearGradient x1="37.42075" y1="128.94625" x2="125.03683" y2="41.32658" gradientUnits="userSpaceOnUse"
+                id="color-2_gkgXdvj3Owk3_gr2">
+                <stop offset="0" stop-color="#32bdef"></stop>
+                <stop offset="1" stop-color="#1ea2e4"></stop>
+            </linearGradient>
+        </defs>
+        <g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter"
+            stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none"
+            font-size="none" text-anchor="none" style="mix-blend-mode: normal">
+            <path d="M0,172v-172h172v172z" fill="none"></path>
+            <g>
+                <path
+                    d="M163.099,81.81467l-12.00058,-12.00058c-2.31125,-2.31125 -6.05583,-2.31125 -8.36708,0l-42.398,26.93592v45.86308c0,3.81625 4.61175,5.72617 7.31,3.02792l55.45567,-55.45567c2.31125,-2.31125 2.31125,-6.05942 0,-8.37067z"
+                    fill="url(#color-1_gkgXdvj3Owk3_gr1)"></path>
+                <path
+                    d="M163.099,81.81467l-55.45567,-55.45567c-2.69825,-2.69825 -7.31,-0.78833 -7.31,3.02792v38.69642h-86c-3.95958,0 -7.16667,3.20708 -7.16667,7.16667v21.5c0,3.95958 3.20708,7.16667 7.16667,7.16667h132.58333c1.51575,0 3.02792,-0.57692 4.18175,-1.73433l12.00058,-12.00058c2.31125,-2.30767 2.31125,-6.05583 0,-8.36708z"
+                    fill="url(#color-2_gkgXdvj3Owk3_gr2)"></path>
+            </g>
+        </g>
+</svg>

@@ -1,0 +1,93 @@
+.Account-page-wrapper{
+    /* background-color: var(--navBlack ); */
+    padding: 2px;
+}
+.bord{
+    /* border: 1px solid #ccff00; */
+}
+.topDetails{
+    /* border:2px solid rgb(0, 179, 250) ; */
+    /* border-radius: 2%; */
+    width: 100%;
+    margin-left: 15px;
+    padding: 1.1%;
+    background-color: var(--navBlack);
+    border-radius:5px;
+}
+.topDetails .leftDetails{
+   
+    /* color:var(--basicGreen); */
+    color:#00CCFF;
+    margin-top: 3%;
+}
+.detailsHeader{
+    display: flex;
+    justify-content: center;
+}
+.leftDetails .acDetails{
+    padding: 1%;
+    display: flex;
+    justify-content: center;
+    /* background-image: linear-gradient(125deg,var(--dbBlue),rgb(2, 175, 255)); */
+    /* background-image: linear-gradient(125deg,#B5FA8A,var(--dbBlue)00%); */
+    /* background-color: var(--dbBlue); */
+    /* background-color: #0daaf3; */
+    background-color: var(--pressedBlackBlue);
+
+    color:#ffffff;
+    font-family: cursive;
+    font-size: 1.5em;
+    margin-top:10px;
+    border-radius: 2%;
+    /* font-weight: bold; */
+}
+.money{
+    color: rgb(249, 253, 252);
+    font-size: 1em;
+}
+.left-money{
+    /* color:rgb(4, 253, 170) */
+    color:rgb(255, 255, 255)
+    /* color:var(--) */
+}
+.holder{
+    margin-top:0.8%;
+    font-size: 1em;
+    color:rgb(249, 253, 252)
+}
+.payment{
+    /* aspect-ratio: 16/9; */
+    /* width: 50%; */
+    /* margin: 10px; */
+    font-size: 1.3em;
+    /* padding: 2%; */
+     /* background-color: #E93B81; */
+    /* background-color: var(--green3); */
+    height:90%;
+    font-weight: 500;
+    color:rgb(255, 255, 255);
+    background-color: var(--pressedBlue);
+    /* background-image: linear-gradient(125deg,rgb(141, 4, 253),#ff006a); */
+}
+.payment:hover{
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(270deg,var(--dbBlue),var(--dbBlue));
+
+}
+.paymentButton{
+    /* display: flex; */
+    /* justify-content: left; */
+    width: 80%;
+}
+.name-header{
+    font-size: 2.7em;
+    /* color:var(--basicGreen); */
+    color:#00CCFF;
+    border-bottom: 3px solid var(--basicGreen);
+}
+
+.btn, 
+.payment{
+    padding: 6%;
+    width:120%;
+}

@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+
+
+/* body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: linear-gradient(-135deg, #c850c0,#4158d0);
+    animation: myanimation 20s infinite;
+    animation-timing-function:ease;
+} */
+
+@keyframes myanimation {
+    0% {background: linear-gradient(-135deg, #c850c0,#4158d0);}
+    25%{background:linear-gradient(-135deg, #4158d0, #c850c0);}
+    50%{background:linear-gradient(-135deg, #c850c0,#4158d0);}
+    75%{background:linear-gradient(-135deg, #4158d0, #c850c0);}
+    100% {background: linear-gradient(-135deg, #c850c0,#4158d0);}
+}
+
+.wrapper{
+    margin-top: 15%;
+    width: 70%;
+    background: #fff;
+    padding: 8%;
+    /* box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); */
+}
+
+.wrapper .input-data{
+    height: 40px;
+    width: 100%;
+    /* padding: 20px; */
+    /* margin: 25px; */
+    margin-left:-20px;
+    position: relative;
+}
+
+.wrapper .input-data input{
+    height: 100%;
+    width: 100%;
+    border: none;
+    font-size: 17px;
+    border-bottom: 2px solid silver;
+}
+
+.wrapper .input-data input:focus ~ label,
+.wrapper .input-data input:valid ~ label{
+    transform: translateY(-20px);
+    font-size: 15px;
+    color: rgb(162, 101, 241);
+    font-weight:bold;
+    color: linear-gradient(-135deg, rgb(241, 101, 234),#4158d0);
+}
+
+
+.wrapper .input-data label{
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    color: grey;
+    pointer-events: none;
+    transition: all 0.5s ease;
+}
+
+.wrapper .input-data .underline{
+    position: absolute;
+    bottom: 0px;
+    height: 2px;
+    width: 100%;
+}
+
+.input-data .underline:before{
+    position: absolute;
+    content: "";
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(-135deg, rgb(241, 101, 234),#4158d0);
+    transform: scaleX(0);
+    transition: all 0.5s ease;
+}
+
+.input-data input:focus ~ .underline:before,
+.input-data input:valid ~ .underline:before{
+    transform: scaleX(1);
+}

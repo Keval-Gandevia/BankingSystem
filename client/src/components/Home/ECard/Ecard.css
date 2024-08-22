@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body {
+    /* font-family: 'Poppins',sans-serif; */
+}
+
+.wrapper_card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:0px;
+    padding:0px;
+}
+.card-wrappers{
+
+}
+.card-wrappers .card {
+    margin-left:8%;
+    width: 80%;
+    aspect-ratio: 16/9;
+    padding: 5%;
+    background-color: #fff;
+    border-radius: 14px;
+    position: relative;
+    color: #fff;
+    /* color: #000; */
+    background-image: url(https://i.imgur.com/5rm6bLu.jpg);
+    background-size: cover;
+    opacity: 1;
+    border: none;
+    margin:5%;
+}
+
+.card-wrappers .card::before {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    content: "";
+    bottom: 0;
+    top: 0;
+    right: 0;
+    left: 0;
+    border-radius: 14px;
+    background: rgb(63, 94, 251);
+    /* background: linear-gradient(90deg, rgba(63, 94, 251, 1) 0%, rgba(240, 50, 89, 1) 100%); */
+    background: linear-gradient(0deg, #00aeff 40%,#0066ff  100%);
+    opacity: 0.8
+}
+
+.card-wrappers .card::after {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    content: "";
+    bottom: 0;
+    top: 0;
+    right: 0;
+    left: 0;
+    border-radius: 14px;
+    background: rgb(63, 94, 251);
+    /* background: linear-gradient(90deg, rgba(63, 94, 251, 1) 0%, rgba(240, 50, 89, 1) 100%); */
+    background: linear-gradient(135deg, #0066ff 20%, #00e1ff 90%);
+    clip-path: polygon(28% 13%, 48% 45%, 75% 63%, 100% 99%, 0 100%, 0% 60%, 0 0)
+}
+
+.card-wrappers .upper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1
+}
+.card-wrappers .middle {
+    display: flex;
+    margin-top:8%;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1
+}
+
+.card-wrappers .upper h6 {
+    font-size: 18px
+}
+
+.card-wrappers .upper h4 {
+    font-size: 30px;
+    text-transform: uppercase
+}
+
+.card-wrappers .lower {
+    position: absolute;
+    bottom: 20px;
+    z-index: 1
+}
+.card-wrappers .fill{
+    border:2px solid black
+}

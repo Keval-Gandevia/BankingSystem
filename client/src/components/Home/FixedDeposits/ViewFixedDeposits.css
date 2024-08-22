@@ -1,0 +1,21 @@
+/* .card-body-ViewFixedDeposits{
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+    width: 50%;
+} */
+.card{
+    width:103%;
+}
+
+.container1 {
+    margin: 1%;
+    border: 5px solid red;
+}
+.container2 {
+    margin: 2px;
+    border: 3px solid red;
+}
+.applyDepositBtn{
+    width:100px
+}

@@ -1,0 +1,155 @@
+[
+    {
+        "activity": "Cheers bill",
+        "account_no": "XXX4563",
+        "date": "12 Jul 2020, 13:30",
+        "mode": "Card",
+        "role": "j",
+        "amount": 230,
+        "type": "credit"
+    },
+    {
+        "activity": "Shopping at walmart",
+        "account_no": "XXX1875",
+        "date": "11 June 2020, 14:00",
+        "mode": "Card",
+        "amount": 1500,
+        "type": "debit"
+    },
+    {
+        "activity": "Subway ahmedabad",
+        "account_no": "XXX1889",
+        "date": "10 Jul 2020, 8:30",
+        "mode": "Card",
+        "amount": 2500,
+        "type": "debit"
+    },
+    {
+        "activity": "Dinner Party",
+        "account_no": "XXX7875",
+        "date": "29 May 2020, 23:30",
+        "mode": "Card",
+        "amount": 12.90,
+        "type": "credit"
+    },
+    {
+        "activity": "Kerala Trip",
+        "account_no": "XXX1234",
+        "date": "12 Jul 2020, 23:40",
+        "mode": "Neft",
+        "amount": 100,
+        "type": "credit"
+    },
+    {
+        "activity": "Kerala Trip",
+        "account_no": "XXX1234",
+        "date": "12 Jul 2020, 23:40",
+        "mode": "Neft",
+        "amount": 100,
+        "type": "credit"
+    },
+    {
+        "activity": "Kerala Trip",
+        "account_no": "XXX1234",
+        "date": "12 Jul 2020, 23:40",
+        "mode": "Neft",
+        "amount": 100,
+        "type": "credit"
+    },
+    {
+        "activity": "Kerala Trip",
+        "account_no": "XXX1234",
+        "date": "12 Jul 2020, 23:40",
+        "mode": "Neft",
+        "amount": 100,
+        "type": "credit"
+    },
+    {
+        "activity": "Kerala Trip",
+        "account_no": "XXX1234",
+        "date": "12 Jul 2020, 23:40",
+        "mode": "Neft",
+        "amount": 100,
+        "type": "credit"
+    },
+    {
+        "activity": "Kerala Trip",
+        "account_no": "XXX1234",
+        "date": "12 Jul 2020, 23:40",
+        "mode": "Neft",
+        "amount": 100,
+        "type": "credit"
+    },
+    {
+        "activity": "Kerala Trip",
+        "account_no": "XXX1234",
+        "date": "12 Jul 2020, 23:40",
+        "mode": "Neft",
+        "amount": 100,
+        "type": "credit"
+    },
+    {
+        "activity": "Kerala Trip",
+        "account_no": "XXX1234",
+        "date": "12 Jul 2020, 23:40",
+        "mode": "Neft",
+        "amount": 100,
+        "type": "credit"
+    },
+    {
+        "activity": "Kerala Trip",
+        "account_no": "XXX1234",
+        "date": "12 Jul 2020, 23:40",
+        "mode": "Neft",
+        "amount": 100,
+        "type": "credit"
+    },
+    {
+        "activity": "Kerala Trip",
+        "account_no": "XXX1234",
+        "date": "12 Jul 2020, 23:40",
+        "mode": "Neft",
+        "amount": 100,
+        "type": "credit"
+    },
+    {
+        "activity": "Kerala Trip",
+        "account_no": "XXX1234",
+        "date": "12 Jul 2020, 23:40",
+        "mode": "Neft",
+        "amount": 100,
+        "type": "credit"
+    },
+    {
+        "activity": "Kerala Trip",
+        "account_no": "XXX1234",
+        "date": "12 Jul 2020, 23:40",
+        "mode": "Neft",
+        "amount": 100,
+        "type": "credit"
+    },
+    {
+        "activity": "Kerala Trip",
+        "account_no": "XXX1234",
+        "date": "12 Jul 2020, 23:40",
+        "mode": "Neft",
+        "amount": 100,
+        "type": "credit"
+    },
+    {
+        "activity": "Kerala Trip",
+        "account_no": "XXX1234",
+        "date": "12 Jul 2020, 23:40",
+        "mode": "Neft",
+        "amount": 100,
+        "type": "credit"
+    },
+    {
+        "activity": "Kerala Trip",
+        "account_no": "XXX1234",
+        "date": "12 Jul 2020, 23:40",
+        "mode": "Neft",
+        "amount": 100,
+        "type": "credit"
+    }
+]

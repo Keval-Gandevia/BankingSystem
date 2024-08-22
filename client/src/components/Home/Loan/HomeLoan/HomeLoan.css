@@ -1,0 +1,207 @@
+/* body{
+  padding:20px;
+} */
+
+#homeLoanCalcForm{
+    padding:10px;
+    display:block;
+  }
+  
+  .homeLoanInput{
+    padding:10px;
+    display:block;
+    width: 100%;
+  }
+  
+  .homeLoanClearFix{
+    clear:both!important;
+  }
+  
+  .homeLoanPaymentCalc{
+    background-color: #f7f7f7;
+    border: 1px solid #d3d3d3;
+    padding: 35px 35px;
+    height: 625px;
+    /* overflow: auto; */
+  }
+  
+  .homeLoanCalcBtn{
+    display:inline-block;
+    background:#c62233;
+    color:#fff;
+    text-align:center;
+    padding:10px 20px;
+    border-radius: 3px;
+    text-decoration: none;
+  }
+  
+  #homeLoanPaymentResults{
+    display: none;
+    background:#fff;
+    padding: 30px 60px 36px 60px;
+    border:1px solid lightgrey;
+    margin-top:-40%;
+    margin-left:47%;
+  }
+
+  /* From here below CSS is for Home Loan form*/  
+
+  /* body {
+    margin: auto;
+    background: #eaeaea;
+    font-family: 'Open Sans', sans-serif;
+} */
+
+/* .info p {
+text-align: center;
+color: #999;
+text-transform: none;
+font-weight: 600;
+font-size: 15px;
+margin-top: 2px
+}
+
+.info i {
+color: #F6AA93;
+} */
+
+
+.home-loan-form .home-loan-form-h1 {
+  font-size: 18px;
+  background: #000000 none repeat scroll 0% 0%;
+  color: rgb(255, 255, 255);
+  padding: 22px 25px;
+  border-radius: 5px 5px 0px 0px;
+  margin: auto;
+  text-shadow: none;
+  text-align: left
+}
+
+
+.home-loan-form {
+  border-radius: 5px;
+  max-width: 700px;
+  width: 100%;
+  margin: 5% auto;
+  background-color: #FFFFFF;
+  overflow: hidden;
+}
+
+.home-loan-form-p,
+.home-loan-form-span {
+  color: #F00;
+}
+
+.home-loan-form-p {
+  margin: 0px;
+  font-weight: 500;
+  line-height: 2;
+  color: #333;
+}
+
+.home-loan-form-h1 {
+  text-align: center;
+  color: #666;
+  text-shadow: 1px 1px 0px #FFF;
+  margin: 50px 0px 0px 0px;
+}
+
+.home-loan-form-input {
+  border-radius: 0px 5px 5px 0px;
+  border: 1px solid #eee;
+  margin-bottom: 15px;
+  width: 75%;
+  height: 40px;
+  float: left;
+  padding: 0px 15px;
+}
+
+.home-loan-form-textarea {
+  border-radius: 0px 5px 5px 0px;
+  border: 1px solid #EEE;
+  margin: 0;
+  width: 75%;
+  height: 130px;
+  float: left;
+  padding: 0px 15px;
+}
+
+.home-loan-form-group {
+  overflow: hidden;
+  clear: both;
+}
+
+.home-loan-form-icon-case {
+  width: 35px;
+  float: left;
+  border-radius: 5px 0px 0px 5px;
+  background: #eeeeee;
+  height: 42px;
+  position: relative;
+  text-align: center;
+  line-height: 40px;
+}
+
+/* i {
+  color: rgb(0, 0, 0);
+} */
+
+.car-loan-contact-form {
+  padding: 40px 30px;
+}
+
+.home-loan-form-btn {
+  background-color: #18ff9f;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  width: 100%;
+  border: 0;
+  padding: 17px 25px;
+  border-radius: 0px 0px 5px 5px;
+  cursor: pointer;
+  margin-top: 40px;
+  font-size: 18px;
+}
+
+.left-home-loan-form {
+  width: 49.5%;
+  float: left;
+  border-right: 1px dotted #CCC;
+  box-sizing: border-box;
+  padding: 0px 15px 0px 0px;
+}
+
+.right-home-loan-form {
+  width: 49.5%;
+  float: right;
+  box-sizing: border-box;
+  padding: 0px 0px 0px 15px;
+}
+
+/* .validation {
+display: none;
+margin: 0 0 10px;
+font-weight: 400;
+font-size: 13px;
+color: #DE5959;
+} */
+
+/* #sendmessage {
+border: 1px solid #fff;
+display: none;
+text-align: center;
+margin: 10px 0;
+font-weight: 600;
+margin-bottom: 30px;
+background-color: #EBF6E0;
+color: #5F9025;
+border: 1px solid #B3DC82;
+padding: 13px 40px 13px 18px;
+border-radius: 3px;
+box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.03);
+}
+
+#sendmessage.show,
+.show {
+display: block;
+} */

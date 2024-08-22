@@ -1,0 +1,63 @@
+.navbar{
+    /* display: flex; */
+    /* background-color: #0b0c10; */
+    /* background-color: #222831; */
+    /* background-color: #0d1117; */
+    background-color: #242526;
+    /* color:rgb(253, 10, 144); */
+    color:var(--bBlue);
+    /* font-weight: bold; */
+    height:76.5%;
+    width:112%;
+    font-size: 20px;
+    /* justify-content: left; */
+    /* position: fixed; */
+    margin-bottom:5px;
+    margin-left:-35px;
+    padding-left: 20px;
+    padding-top:20px;
+    box-shadow: 0px 5px 20px rgba(31, 26, 26, 0.616);;
+}
+
+.logOut{
+    /* aspect-ratio: 16/9; */
+    width: 120%;
+    margin: 0%;
+    margin-top: -50px;
+    margin-left: 10px;
+    /* margin-bottom: 15%;; */
+    font-size: 1.3em;
+    padding: 0%;
+    border-radius: 4px;
+     /* background-color: #E93B81; */
+    /* background-color: var(--green3); */
+    height:70%;
+    font-weight: 500;
+    color:rgb(255, 255, 255);
+    background-color: var(--pressedBlue);
+    /* background-image: linear-gradient(125deg,rgb(141, 4, 253),#ff006a); */
+}
+.logOut:hover{
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(270deg,var(--dbBlue),var(--dbBlue));
+
+}
+
+@media only screen and (max-width: 1300px){
+    .navbar{
+    /* background-color: #e4e4e4; */
+    /* background-color: #2f2f31; */
+    background-color: #2f2f31;
+
+    color:rgb(253, 10, 144);
+    height:98.5%;
+    width:112.6%;
+    /* position: fixed; */
+    margin-bottom:5px;
+    margin-left:-42px;
+    
+    padding:1%;
+}
+
+
+}

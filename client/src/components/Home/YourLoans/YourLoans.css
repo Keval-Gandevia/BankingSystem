@@ -1,0 +1,125 @@
+
+.yourloansHeader{
+    color:var(--bBlue)
+}
+.li-item{
+    /* color:var(--green1); */
+    color: var(--bBlue);
+    font-size: 1.2em;
+}
+.leading-li{
+    /* color: var(--bBlue); */
+    color: white;
+    font-weight: 550;
+}
+.li-heads{
+    color:var(--green2)
+}
+.neftHeader{
+    /* color:rgb(255, 0, 128) */
+    color:var(--bBlue)
+}
+.custBtn1{
+    width: 20%;
+    padding: 1%;
+    margin-top:2% ;
+    /* background-color: rgb(40, 139, 226); */
+    background-color: var(--bBlue);
+    font-weight: 500;
+    border: 0px;
+    border-radius: 3px;
+    color:rgb(22, 20, 20)
+
+}
+.custCol{
+    display: flex;
+    justify-content: center;
+}
+.neftInps{
+    background-color: rgb(58, 55, 58);
+    border:3px solid rgb(112, 112, 112);
+    color: white;
+}
+.neftInps :focus{
+
+    background-color: rgb(10, 10, 10);
+    border:3px solid rgb(117, 117, 117);
+    color:var(--bBlue)
+}
+.neftForm input[type=text]:focus{
+    background-color: rgb(77, 76, 76);
+    border:3px solid rgb(117, 117, 117);
+    color:var(--bBlue)
+}
+.neftForm input[type=number]:focus{
+    background-color: rgb(77, 76, 76);
+    border:3px solid rgb(117, 117, 117);
+    color:var(--bBlue)
+}
+.refinanceLoan{
+
+    /* color:rgb(39, 39, 39);
+    background-color:var(--bBlue); */
+    color:rgb(255, 255, 255);
+    background-color: var(--pressedBlue);
+    width:66%;
+    padding:10px;
+    font-weight:600;
+    /* margin-right: 1%; */
+    margin-left: 22%;
+}
+
+.refinanceLoan:hover{
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(270deg,var(--dbBlue),var(--dbBlue));
+}
+
+.btnWrapper{
+    display:flex;
+    justify-content: center;
+}
+.yourLoans-wrapper input[type="email"]{
+    background-color: rgb(58, 55, 58);
+    border:3px solid rgb(112, 112, 112);
+    color: white;
+}
+.yourLoans-wrapper input[type="email"]:focus{
+    background-color: rgb(77, 76, 76);
+    border:3px solid rgb(117, 117, 117);
+    color:var(--bBlue)
+}
+.yourLoans-wrapper input[type="text"]{
+    background-color: rgb(58, 55, 58);
+    border:3px solid rgb(112, 112, 112);
+    color: white;
+}
+.yourLoans-wrapper input[type="text"]:focus{
+    background-color: rgb(77, 76, 76);
+    border:3px solid rgb(117, 117, 117);
+    color:var(--bBlue)
+}
+.yourLoans-wrapper textarea{
+    background-color: rgb(58, 55, 58);
+    border:3px solid rgb(112, 112, 112);
+    color: white;
+}
+.yourLoans-wrapper textarea:focus{
+   background-color: rgb(77, 76, 76);
+    border:3px solid rgb(117, 117, 117);
+    color:var(--bBlue)
+}
+.refinance-form label{
+    /* color:var(--bBlue); */
+    color: white;
+    font-weight:400;
+    font-size:1.2em;
+}
+.yourLoans-wrapper hr{
+    color:var(--bBlue)
+}
+.Assistancebtn{
+    background-color:#ccff00;
+}
+.margin-left-50{
+    margin-left:8%;
+}

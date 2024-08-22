@@ -1,0 +1,37 @@
+.add-admin-form-wrapper{
+    font-family:  "SF Pro Display","SF Pro Icons",Helvetica "Neue",Helvetica,Arial,sans-serif;
+    display: flex;
+    justify-content: center;
+}
+.add-admin-input{
+  padding-left : 1.2em;
+  width: 100%;
+  /* margin-left: 500px; */
+  height: 42px;
+  border-radius: 6px;
+  border:1px solid #d6d6d6;
+
+}
+.add-admin-input::placeholder{
+  color:#919190;
+  padding-left: 0.4em;
+}
+.add-admin-input:focus{
+  padding-left : 1.2em;
+  outline: none;
+  border:2px solid #0070c9;
+}
+.add-admin-form-wrapper p{
+  /* margin-left: 300px; */
+  font-weight: 400;
+  font-size: 2em;
+  text-transform: capitalize;
+  letter-spacing: 0.011em;
+  color:#494949;
+}
+.add-admin-form-wrapper .add-admin-subBtn{
+    width: 100%;
+    font-family:  "SF Pro Display","SF Pro Icons",Helvetica "Neue",Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    padding: 1%;
+}

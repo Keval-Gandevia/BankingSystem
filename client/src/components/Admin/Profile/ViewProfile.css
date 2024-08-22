@@ -1,0 +1,65 @@
+.cardViewProfile {
+    width: 350px;
+    background-color: rgb(204, 204, 204);
+    border: none;
+    cursor: pointer;
+    transition: all 0.5s
+}
+
+.imgViewProfile img {
+    transition: all 0.5s;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.cardViewProfile:hover img {
+    transform: scale(1.5)
+}
+
+.btnViewProfile {
+    height: 140px;
+    width: 140px;
+    border-radius: 50%
+}
+
+.nameViewProfile {
+    color: black;
+    font-size: 22px;
+    font-weight: bold
+}
+
+.emailIdViewProfile {
+    color: black;
+    font-size: 14px;
+    font-weight: 600
+}
+
+.IdViewProfile {
+    color: black;
+    font-size: 12px
+}
+
+.logOutBtnViewProfile {
+    height: 40px;
+    width: 150px;
+    border: none;
+    background-color: #000;
+    color: #aeaeae;
+    font-size: 15px
+}
+
+.icons i {
+    color: black;
+    font-size: 19px
+}
+
+.joinViewProfile {
+    font-size: 14px;
+    color: #4e4c4c;
+    font-weight: bold
+}
+
+.dateViewProfile {
+    color: black;
+    background-color: #ccc
+}

@@ -1,0 +1,134 @@
+.homeLoanHeader{
+    color:var(--bBlue)
+}
+.homeLoancustBtn1{
+    width: 17%;
+    padding: 1%;
+    margin-top:2% ;
+    /* background-color: rgb(40, 139, 226); */
+    /* background-color: var(--bBlue); */
+    /* font-weight: 500; */
+    border: 0%;
+    border-radius: 3px;
+    /* color:rgb(22, 20, 20); */
+    color:rgb(255, 255, 255);
+    background-color: var(--pressedBlue);
+    margin-left: 1.8%;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.homeLoancustBtn1:hover {
+    box-sizing: border-box;
+    /* background-color: #636363;
+    color: white; */
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(270deg,var(--dbBlue),var(--dbBlue));
+}
+
+
+.custCol{
+    display: flex;
+    justify-content: center;
+}
+.homeLoanInps{
+    background-color: rgb(58, 55, 58);
+    border:3px solid rgb(112, 112, 112);
+    color: white;
+}
+.homeLoanInps:focus{
+
+    background-color: rgb(10, 10, 10);
+    border:3px solid rgb(117, 117, 117);
+    color:var(--bBlue)
+}
+.homeLoanForm input[type=text]:focus{
+    background-color: rgb(77, 76, 76);
+    border:3px solid rgb(117, 117, 117);
+    color:var(--bBlue)
+}
+.homeLoanForm input[type=number]:focus{
+    background-color: rgb(77, 76, 76);
+    border:3px solid rgb(117, 117, 117);
+    color:var(--bBlue)
+}
+.homeLoanForm input[type=email]:focus{
+    background-color: rgb(77, 76, 76);
+    border:3px solid rgb(117, 117, 117);
+    color:var(--bBlue)
+}
+
+.homeLoanTextArea {
+    background-color: rgb(77, 76, 76);
+    border:3px solid rgb(117, 117, 117);
+    color:var(--bBlue)
+}
+
+.home-loan-form-span {
+    color: #F00;  
+}
+
+.home-loan-form-icon-case {
+    width: 35px;
+    float: left;
+    border-radius: 5px 0px 0px 5px;
+    background: #eeeeee;
+    height: 42px;
+    position: relative;
+    text-align: center;
+    line-height: 40px;
+}
+
+.loanTypeSelectDropDown {
+    color: white;
+    background-color: rgb(58, 55, 58);
+    border-color: rgb(112, 112, 112);
+    border: none;
+    padding: 1%;
+    margin: 0;
+    width: 20%;
+}
+
+
+
+
+
+
+#homeLoanPaymentResults{
+    margin-top: 2%;
+    color:var(--bBlue);
+    padding:2%;
+}
+
+.loanPaymentHeader{
+    color:var(--bBlue)
+}
+
+.loanPaymentHeaderHRL{
+    color:var(--bBlue)
+}
+.homeLoanCalcBtn{
+    width: 17%;
+    padding: 1%;
+    margin-top: 2%;
+    /* margin-left: 1.8%; */
+    margin-right: 77%;
+    /* background-color: rgb(40, 139, 226); */
+    /* background-color: var(--bBlue); */
+    font-weight: 500;
+    border: 0px;
+    border-radius: 3px;
+    /* color:rgb(22, 20, 20); */
+    color:rgb(255, 255, 255);
+    background-color: var(--pressedBlue);
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.homeLoanCalcBtn:hover {
+    box-sizing: border-box;
+    /* background-color: #636363;
+    color: white; */
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(270deg,var(--dbBlue),var(--dbBlue));
+}

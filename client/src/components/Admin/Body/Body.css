@@ -1,0 +1,29 @@
+
+.topNavBarWrapper .topNavbar{
+  background-color: rgba(63, 63, 63, 0.438);
+  display: flex;
+  justify-content: space-evenly;
+  height:50px;
+  font-size: xx-large;
+}
+.topNavBarWrapper .topNavbar .brand a{
+  color:#e0e0e0;
+  text-decoration: none !important;
+  outline: none;
+}
+.topNavBarWrapper .topNavbar .brand a:hover{
+  color:#f5f5f7;
+  text-decoration: none !important;
+  outline: none;
+}
+.makeMeWhite{
+    
+    background-color: white;
+    height:130vh;
+}
+.choosers{
+    font-size:0.65em;
+    text-decoration: none;
+    color:rgb(196, 196, 196)
+}
+

@@ -1,0 +1,14 @@
+{
+    "Transactions":{
+        "text":"Transactions",
+        "vector-asset":"link to it",
+        "vector-asset-color":"#ccff00",
+        "background-color":"#ccff00"
+    },
+    "Your Accounts":{
+        "text": "Your Accounts",
+        "vector-asset": "link to it",
+        "vector-asset-color": "#ccff00",
+        "background-color": "#ccff00"
+    }
+}

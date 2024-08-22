@@ -1,0 +1,47 @@
+.allCardsWrapper{
+    display: flex;
+    justify-content: space-evenly;
+}
+.card{
+    width: 30%;
+    color:white;
+    padding: 0;
+    border: 0px;
+    background-color: #353636;
+}
+.card img{
+    margin-top: 3.5%;
+    margin: 0;
+    width: 100%;
+}
+.cardp{
+    font-size: x-large;
+}
+.normals{
+    display:block;
+    color:white;
+    margin: 4%;
+}
+.left{
+    background-color: rgb(44, 44, 40);
+    color:hsl(91, 100%, 50%);
+    max-width: 60%;
+    height: fit-content;
+}
+.right{
+    margin-top: 1px;
+    height: fit-content;
+    background-color: rgb(43, 43, 40);
+    color:rgb(0, 225, 255);
+    max-width: 60%;
+}
+.fill{
+    border: 1px solid yellow;
+}
+.chatWrapper{
+    border: 2px solid yellow;
+}
+.chatAbove{
+    /* display: flex; */
+    border: 2px solid yellow;
+}

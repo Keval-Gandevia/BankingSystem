@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="48" height="48" viewBox="0 0 172 172"
+    style=" fill:#000000;">
+    <defs>
+      <linearGradient x1="136.32075" y1="129.89583" x2="82.43817" y2="129.89583" gradientUnits="userSpaceOnUse"
+        id="color-1_3O3yLvBwffDd_gr1">
+        <stop offset="0" stop-color="#00ff00"></stop>
+        <stop offset="1" stop-color="#00ff00"></stop>
+      </linearGradient>
+      <linearGradient x1="127.95725" y1="118.336" x2="46.46508" y2="36.84383" gradientUnits="userSpaceOnUse"
+        id="color-2_3O3yLvBwffDd_gr2">
+        <stop offset="0" stop-color="#00ff00"></stop>
+        <stop offset="1" stop-color="#00ff00"></stop>
+      </linearGradient>
+      <linearGradient x1="77.271" y1="119.81233" x2="60.35408" y2="136.72925" gradientUnits="userSpaceOnUse"
+        id="color-3_3O3yLvBwffDd_gr3">
+        <stop offset="0" stop-color="#00ff00"></stop>
+        <stop offset="1" stop-color="#00ff00"></stop>
+      </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter"
+      stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none"
+      font-size="none" text-anchor="none" style="mix-blend-mode: normal">
+      <path d="M0,172v-172h172v172z" fill="none"></path>
+      <g>
+        <path
+          d="M83.60633,159.51925l-8.41725,-8.41725c-2.31125,-2.31125 -2.31125,-6.05583 0,-8.36708l42.45892,-42.45892c2.31125,-2.31125 6.05583,-2.31125 8.36708,0l8.41725,8.41725c2.31125,2.31125 2.31125,6.05583 0,8.36708l-42.45533,42.45533c-2.31125,2.31125 -6.05942,2.31125 -8.37067,0.00358z"
+          fill="url(#color-1_3O3yLvBwffDd_gr1)"></path>
+        <path
+          d="M94.95833,10.75h-17.91667c-2.967,0 -5.375,2.408 -5.375,5.375v122.72917l28.66667,8.0625v-130.79167c0,-2.967 -2.408,-5.375 -5.375,-5.375z"
+          fill="url(#color-2_3O3yLvBwffDd_gr2)"></path>
+        <path
+          d="M91.97342,159.51925l8.35992,-8.35992v-8.48533l-45.98133,-45.98492c-2.31125,-2.31125 -6.05583,-2.31125 -8.36708,0l-8.41725,8.41725c-2.31125,2.31125 -2.31125,6.05583 0,8.36708l46.03867,46.04225c2.31125,2.31125 6.05942,2.31125 8.36708,0.00358z"
+          fill="url(#color-3_3O3yLvBwffDd_gr3)"></path>
+      </g>
+    </g>
+</svg>

@@ -1,0 +1,75 @@
+.carLoanHeader {
+  /* color:rgb(255, 0, 128) */
+  color: var(--bBlue);
+  /* color: red; */
+}
+.carLoancustBtn1 {
+  width: 17%;
+  padding: 1%;
+  margin-top: 2%;
+  /* background-color: rgb(40, 139, 226); */
+  background-color: var(--bBlue);
+  font-weight: 500;
+  border: 0px;
+  border-radius: 3px;
+  color: rgb(22, 20, 20);
+  margin-left: 1.8%;
+}
+.custCol {
+  display: flex;
+  justify-content: center;
+}
+.carLoanInps {
+  background-color: rgb(58, 55, 58);
+  border: 3px solid rgb(112, 112, 112);
+  color: white;
+}
+.carLoanInps :focus {
+  background-color: rgb(10, 10, 10);
+  border: 3px solid rgb(117, 117, 117);
+  color: var(--bBlue);
+}
+.carLoanForm input[type="text"]:focus {
+  background-color: rgb(77, 76, 76);
+  border: 3px solid rgb(117, 117, 117);
+  color: var(--bBlue);
+}
+.carLoanForm input[type="number"]:focus {
+  background-color: rgb(77, 76, 76);
+  border: 3px solid rgb(117, 117, 117);
+  color: var(--bBlue);
+}
+
+.carLoanTextArea {
+  background-color: rgb(77, 76, 76);
+  border: 3px solid rgb(117, 117, 117);
+  color: var(--bBlue);
+}
+
+.home-loan-form-span {
+  color: #f00;
+}
+
+.home-loan-form-icon-case {
+  width: 35px;
+  float: left;
+  border-radius: 5px 0px 0px 5px;
+  background: #eeeeee;
+  height: 42px;
+  position: relative;
+  text-align: center;
+  line-height: 40px;
+}
+.loanOfferHeader {
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(45deg, #00ffbf,#0099ff,#00ff22,#00ff22);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+.loanhr{
+    background-color: #00ffbf
+    /* linear-gradient(45deg, #00ffbf,#0099ff,#00ff22,#00ff22); */
+  /* -webkit-text-fill-color: transparent; */
+  /* -webkit-background-clip: text; */
+}
